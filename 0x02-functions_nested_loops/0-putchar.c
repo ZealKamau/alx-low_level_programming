@@ -1,7 +1,20 @@
-#include <stdio.h>
-int main() {
-// printf() displays the string inside quotation
-printf("_putchar\n");
-return 0;
+#include "main.h"
+
+/**
+ *  * main - print holberton
+ *   * Return: 0 if succesful
+ *    */
+int main(void)
+{
+	_putchar('-');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+
+	return (0);
 }
-	   
