@@ -3,7 +3,7 @@
 /**
  *  * main - print holberton
  *   * Return: 0 if succesful
- *    */
+*/
 int main(void)
 {
 	_putchar('_');
